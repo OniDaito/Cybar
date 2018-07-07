@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="cybar.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.0169561"
+     inkscape:cx="308.60581"
+     inkscape:cy="247.96946"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       overflow_perspective="false"
+       vertical_mirror="false"
+       horizontal_mirror="false"
+       deform_type="perspective"
+       is_visible="true"
+       id="path-effect1460"
+       down_right_point="159.93284,176.47377"
+       down_left_point="92.29824,176.47377"
+       up_right_point="159.93284,143.90278"
+       up_left_point="94.4,143.90278"
+       effect="perspective-envelope" />
+    <inkscape:path-effect
+       overflow_perspective="false"
+       vertical_mirror="false"
+       horizontal_mirror="false"
+       deform_type="perspective"
+       is_visible="true"
+       id="path-effect1442"
+       down_right_point="159.93284,176.47377"
+       down_left_point="92.29824,176.47377"
+       up_right_point="159.93284,143.90278"
+       up_left_point="92.29824,143.90278"
+       effect="perspective-envelope" />
+    <inkscape:path-effect
+       overflow_perspective="false"
+       vertical_mirror="false"
+       horizontal_mirror="false"
+       deform_type="perspective"
+       is_visible="true"
+       id="path-effect1440"
+       down_right_point="159.93284,176.47377"
+       down_left_point="92.29824,176.47377"
+       up_right_point="159.93284,143.90278"
+       up_left_point="92.29824,143.90278"
+       effect="perspective-envelope" />
+    <inkscape:perspective
+       id="perspective4737"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,92.298241,143.90278)"
+       osb:paint="solid"
+       id="linearGradient4714">
+      <stop
+         id="stop4712"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient4708">
+      <stop
+         id="stop4706"
+         offset="0"
+         style="stop-color:#dc4eb1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1.0583335,-1.889881)"
+       osb:paint="solid"
+       id="linearGradient4702">
+      <stop
+         id="stop4700"
+         offset="0"
+         style="stop-color:#f5745b;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-0.60003718,0.2000124)"
+       osb:paint="solid"
+       id="linearGradient4659">
+      <stop
+         id="stop4657"
+         offset="0"
+         style="stop-color:#9b78a1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient4631">
+      <stop
+         id="stop4629"
+         offset="0"
+         style="stop-color:#ed3478;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4602">
+      <stop
+         id="stop4600"
+         offset="0"
+         style="stop-color:#77eb83;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.53506867,0,0,0.09936989,43.598376,194.36585)"
+       osb:paint="solid"
+       id="linearGradient4573">
+      <stop
+         id="stop4571"
+         offset="0"
+         style="stop-color:#1aebe7;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="113.30356"
+       x2="176.13689"
+       y1="113.30356"
+       x1="-29.482152"
+       id="linearGradient4604"
+       xlink:href="#linearGradient4602"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="113.30356"
+       x2="176.13689"
+       y1="113.30356"
+       x1="-29.482152"
+       id="linearGradient4704"
+       xlink:href="#linearGradient4702"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="113.30356"
+       x2="176.13689"
+       y1="113.30356"
+       x1="-29.482152"
+       id="linearGradient4710"
+       xlink:href="#linearGradient4708"
+       inkscape:collect="always" />
+    <filter
+       id="filter1363"
+       inkscape:label="Feather"
+       style="color-interpolation-filters:sRGB;">
+      <feGaussianBlur
+         id="feGaussianBlur1355"
+         result="blur"
+         stdDeviation="95.5734" />
+      <feComposite
+         id="feComposite1357"
+         result="composite1"
+         operator="atop"
+         in2="blur"
+         in="SourceGraphic" />
+      <feComposite
+         id="feComposite1359"
+         result="composite2"
+         operator="in"
+         in2="composite1" />
+      <feComposite
+         id="feComposite1361"
+         result="fbSourceGraphic"
+         operator="in"
+         in2="composite2" />
+      <feColorMatrix
+         id="feColorMatrix1365"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="95.57"
+         id="feGaussianBlur1367" />
+      <feComposite
+         result="composite1"
+         operator="atop"
+         in="fbSourceGraphic"
+         id="feComposite1369"
+         in2="blur" />
+      <feComposite
+         result="composite2"
+         operator="in"
+         id="feComposite1371"
+         in2="composite1" />
+      <feComposite
+         result="composite3"
+         operator="in"
+         id="feComposite1373"
+         in2="composite2" />
+    </filter>
+  </defs>
+</svg>
