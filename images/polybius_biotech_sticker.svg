@@ -39,17 +39,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="684.87663"
-     inkscape:cy="486.7209"
+     inkscape:zoom="2.8"
+     inkscape:cx="247.37383"
+     inkscape:cy="927.31916"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
+     inkscape:current-layer="g2205-8"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1177"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3009" />
+  </sodipodi:namedview>
   <metadata
      id="metadata959">
     <rdf:RDF>
@@ -58,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,26 +72,22 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       transform="matrix(0.47835168,0,0,0.4788538,75.038775,86.124218)"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.22743988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 176.13689,172.26784 73.667562,231.82136 -29.141959,172.85707 -29.482152,54.339274 72.987177,-5.2142411 175.7967,53.750043 Z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="1.0443272"
-       sodipodi:arg1="0.52072839"
-       sodipodi:r2="102.63985"
-       sodipodi:r1="118.51829"
-       sodipodi:cy="113.30356"
-       sodipodi:cx="73.32737"
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.51199985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3015"
        sodipodi:sides="6"
-       id="path3715"
-       sodipodi:type="star" />
-    <path
-       style="fill:none;stroke:#ff7545;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 90.700986,127.29639 19.400394,11.13846 19.33611,-11.24973 0.0642,22.38807 -19.33581,11.24967 0.0642,22.38805 -19.400364,-11.13838 -0.0645,-22.38804"
-       id="path1648"
-       inkscape:connector-curvature="0" />
+       sodipodi:cx="50.270832"
+       sodipodi:cy="66.8125"
+       sodipodi:r1="44.979164"
+       sodipodi:r2="38.953102"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 50.270833,111.79166 -38.953099,-22.489577 -10e-7,-44.979164 38.953098,-22.489583 38.953099,22.489581 10e-7,44.979164 z"
+       inkscape:transform-center-x="1.2792014e-006"
+       transform="matrix(0.56349816,0,0,0.56470591,0.77664462,-6.9002468)" />
     <g
        id="g2205"
        transform="matrix(0.8,0,0,0.8,22.117738,19.119432)">
@@ -122,6 +123,48 @@
            id="tspan1758"
            x="85.957718"
            y="122.4874"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">improving life</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#ff7545;stroke-width:2.83538175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.735277,26.316811 8.377249,4.745997 8.377249,-4.745997 v 9.693944 l -8.377249,4.846978 v 9.59297 L 20.735277,45.603729 V 35.90978"
+       id="path3038"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g2205-8"
+       transform="matrix(0.79999999,0,0,0.79999999,-60.470058,-70.082947)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20039248px;line-height:1.25;font-family:'Eurostile Cond';-inkscape-font-specification:'Eurostile Cond';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13752453"
+         x="157.5919"
+         y="150.53537"
+         id="text1748-3"><tspan
+           id="tspan2177-5"
+           sodipodi:role="line"
+           x="157.5919"
+           y="150.53537"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.60117769px;font-family:Eurostile;-inkscape-font-specification:'Eurostile, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.13752453">Biotech</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20039248px;line-height:1.25;font-family:'Eurostile Cond';-inkscape-font-specification:'Eurostile Cond';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13752453"
+         x="156.76752"
+         y="145.00591"
+         id="text1748-7-0"><tspan
+           id="tspan2177-2-1"
+           sodipodi:role="line"
+           x="156.76752"
+           y="145.00591"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.60117769px;font-family:Eurostile;-inkscape-font-specification:'Eurostile, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.13752453">Polybius</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Eurostile Cond';-inkscape-font-specification:'Eurostile Cond';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="87.847603"
+         y="114.57352"
+         id="text1760-4"><tspan
+           sodipodi:role="line"
+           id="tspan1758-3"
+           x="87.847603"
+           y="114.57352"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">improving life</tspan></text>
     </g>
   </g>
