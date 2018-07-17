@@ -43,7 +43,7 @@
      inkscape:cx="247.37383"
      inkscape:cy="927.31916"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2205-8"
+     inkscape:current-layer="g3741"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1177"
@@ -71,23 +71,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       sodipodi:type="star"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.51199985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3015"
-       sodipodi:sides="6"
-       sodipodi:cx="50.270832"
-       sodipodi:cy="66.8125"
-       sodipodi:r1="44.979164"
-       sodipodi:r2="38.953102"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.0943951"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 50.270833,111.79166 -38.953099,-22.489577 -10e-7,-44.979164 38.953098,-22.489583 38.953099,22.489581 10e-7,44.979164 z"
-       inkscape:transform-center-x="1.2792014e-006"
-       transform="matrix(0.56349816,0,0,0.56470591,0.77664462,-6.9002468)" />
     <g
        id="g2205"
        transform="matrix(0.8,0,0,0.8,22.117738,19.119432)">
@@ -125,11 +108,6 @@
            y="122.4874"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">improving life</tspan></text>
     </g>
-    <path
-       style="fill:none;stroke:#ff7545;stroke-width:2.83538175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 20.735277,26.316811 8.377249,4.745997 8.377249,-4.745997 v 9.693944 l -8.377249,4.846978 v 9.59297 L 20.735277,45.603729 V 35.90978"
-       id="path3038"
-       inkscape:connector-curvature="0" />
     <g
        id="g2205-8"
        transform="matrix(0.79999999,0,0,0.79999999,-60.470058,-70.082947)">
@@ -155,17 +133,91 @@
            x="156.76752"
            y="145.00591"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.60117769px;font-family:Eurostile;-inkscape-font-specification:'Eurostile, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.13752453">Polybius</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Eurostile Cond';-inkscape-font-specification:'Eurostile Cond';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="87.847603"
-         y="114.57352"
-         id="text1760-4"><tspan
-           sodipodi:role="line"
-           id="tspan1758-3"
-           x="87.847603"
-           y="114.57352"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">improving life</tspan></text>
+      <g
+         id="g3741">
+        <path
+           transform="matrix(0.7043727,0,0,0.70588238,76.558379,78.978376)"
+           inkscape:transform-center-x="1.2792014e-006"
+           d="m 50.270833,111.79166 -38.953099,-22.489577 -10e-7,-44.979164 38.953098,-22.489583 38.953099,22.489581 10e-7,44.979164 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="2.0943951"
+           sodipodi:arg1="1.5707963"
+           sodipodi:r2="38.953102"
+           sodipodi:r1="44.979164"
+           sodipodi:cy="66.8125"
+           sodipodi:cx="50.270832"
+           sodipodi:sides="6"
+           id="path3015"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.51199985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:type="star"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3038"
+           d="m 20.735277,26.316811 8.377249,4.745997 8.377249,-4.745997 v 9.693944 l -8.377249,4.846978 v 9.59297 L 20.735277,45.603729 V 35.90978"
+           style="fill:none;stroke:#ff7545;stroke-width:2.83538175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.25,0,0,1.25,75.587573,87.603685)" />
+        <g
+           aria-label="improving life"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Eurostile Cond';-inkscape-font-specification:'Eurostile Cond';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           id="text1760-4">
+          <path
+             d="m 88.355603,114.57352 h 0.45085 v -3.00355 h -0.45085 z m 0,-3.7211 h 0.45085 v -0.55245 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3743" />
+          <path
+             d="m 89.819079,114.57352 h 0.45085 v -1.7653 c 0,-0.6477 0.38735,-0.9017 1.3716,-0.9017 0.9017,0 1.12395,0.15875 1.12395,0.79375 v 1.87325 h 0.45085 v -1.7653 c 0,-0.64135 0.3937,-0.9017 1.3716,-0.9017 0.9017,0 1.12395,0.15875 1.12395,0.79375 v 1.87325 h 0.45085 v -1.8923 c 0,-0.9017 -0.32385,-1.1557 -1.45415,-1.1557 -1.07315,0 -1.4351,0.1397 -1.63195,0.635 -0.1524,-0.4826 -0.47625,-0.635 -1.3208,-0.635 -1.0033,0 -1.30175,0.127 -1.4859,0.635 v -0.59055 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3745" />
+          <path
+             d="m 97.186071,111.56997 v 4.27355 h 0.45085 v -1.7145 c 0.1905,0.37465 0.5334,0.48895 1.50495,0.48895 0.888999,0 1.308099,-0.0825 1.555749,-0.29845 0.26035,-0.2286 0.3683,-0.5969 0.3683,-1.2446 0,-0.65405 -0.10795,-1.02235 -0.3683,-1.25095 -0.24765,-0.2159 -0.66675,-0.29845 -1.555749,-0.29845 -0.97155,0 -1.31445,0.1143 -1.50495,0.48895 v -0.4445 z m 1.92405,0.33655 c 0.7493,0 1.073149,0.0571 1.244599,0.2159 0.1651,0.1524 0.23495,0.4445 0.23495,0.9525 0,0.45085 -0.0571,0.7366 -0.18415,0.89535 -0.17145,0.2032 -0.469899,0.2667 -1.301749,0.2667 -1.28905,0 -1.4732,-0.14605 -1.4732,-1.1811 0,-0.43815 0.0635,-0.7239 0.18415,-0.88265 0.1651,-0.2032 0.4699,-0.2667 1.2954,-0.2667 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3747" />
+          <path
+             d="m 101.99818,114.57352 h 0.45085 v -1.7653 c 0,-0.65405 0.3429,-0.9017 1.2446,-0.9017 0.83185,0 1.016,0.14605 1.016,0.79375 v 0.15875 h 0.45085 v -0.1778 c 0,-0.89535 -0.29845,-1.1557 -1.33985,-1.1557 -0.93345,0 -1.2065,0.127 -1.3716,0.635 v -0.59055 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3749" />
+          <path
+             d="m 107.79662,111.52552 c -0.9144,0 -1.3335,0.0762 -1.58115,0.29845 -0.26035,0.2286 -0.3683,0.5969 -0.3683,1.2446 0,0.65405 0.10795,1.02235 0.3683,1.25095 0.254,0.22225 0.66675,0.29845 1.58115,0.29845 0.92075,0 1.3335,-0.0762 1.5875,-0.29845 0.254,-0.2286 0.3683,-0.5969 0.3683,-1.22555 0,-0.6731 -0.10795,-1.03505 -0.3683,-1.27 -0.254,-0.22225 -0.66675,-0.29845 -1.5875,-0.29845 z m 0.0127,0.381 c 0.74295,0 1.06045,0.0571 1.2319,0.2159 0.1651,0.15875 0.23495,0.4445 0.23495,0.9652 0,0.43815 -0.0635,0.7239 -0.18415,0.88265 -0.1651,0.2032 -0.4699,0.2667 -1.28905,0.2667 -0.75565,0 -1.07315,-0.0571 -1.2446,-0.2159 -0.1651,-0.1524 -0.23495,-0.4445 -0.23495,-0.9525 0,-0.45085 0.0572,-0.7366 0.18415,-0.89535 0.1651,-0.2032 0.4699,-0.2667 1.30175,-0.2667 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3751" />
+          <path
+             d="m 110.10683,111.56997 1.7272,3.00355 h 0.65405 l 1.7272,-3.00355 h -0.508 l -1.54305,2.6924 -1.54305,-2.6924 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3753" />
+          <path
+             d="m 114.8222,114.57352 h 0.45085 v -3.00355 h -0.45085 z m 0,-3.7211 h 0.45085 v -0.55245 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3755" />
+          <path
+             d="m 116.28568,114.57352 h 0.45085 v -1.7653 c 0,-0.65405 0.40005,-0.89535 1.47955,-0.89535 1.00965,0 1.2319,0.14605 1.2319,0.79375 v 1.8669 h 0.45085 v -1.8923 c 0,-0.50165 -0.0953,-0.762 -0.33655,-0.94615 -0.2413,-0.18415 -0.5715,-0.24765 -1.2192,-0.24765 -1.0922,0 -1.4097,0.13335 -1.60655,0.67945 v -0.5969 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3757" />
+          <path
+             d="m 124.70906,111.56997 h -0.45085 v 0.4445 c -0.22225,-0.38735 -0.5334,-0.48895 -1.4986,-0.48895 -0.889,0 -1.3081,0.0825 -1.5621,0.29845 -0.26035,0.2286 -0.3683,0.5969 -0.3683,1.25095 0,0.6477 0.10795,1.016 0.3683,1.2446 0.254,0.2159 0.6731,0.29845 1.55575,0.29845 0.97155,0 1.2827,-0.1016 1.50495,-0.48895 -0.006,0.73025 -0.0254,0.889 -0.1143,1.09855 -0.1397,0.31115 -0.3937,0.381 -1.32715,0.381 -0.8255,0 -1.0795,-0.0381 -1.26365,-0.19685 -0.12065,-0.10795 -0.1905,-0.27305 -0.1905,-0.45085 v -0.0635 h -0.46355 v 0.0635 c 0,0.31115 0.13335,0.59055 0.36195,0.76835 0.26035,0.19685 0.6477,0.26035 1.53035,0.26035 0.89535,0 1.3081,-0.0825 1.55575,-0.29845 0.2794,-0.24765 0.36195,-0.5715 0.36195,-1.4097 z m -1.9431,0.33655 c 0.7874,0 1.04775,0.0444 1.2319,0.2159 0.1651,0.15875 0.23495,0.43815 0.23495,0.9652 0,0.43815 -0.0635,0.7239 -0.18415,0.8763 -0.18415,0.22225 -0.4318,0.27305 -1.2954,0.27305 -0.80645,0 -1.0541,-0.0444 -1.2446,-0.2159 -0.1651,-0.15875 -0.23495,-0.43815 -0.23495,-0.9525 0,-0.45085 0.0572,-0.7366 0.1905,-0.889 0.1778,-0.22225 0.42545,-0.27305 1.30175,-0.27305 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3759" />
+          <path
+             d="m 127.31136,114.57352 h 0.45085 v -4.27355 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3761" />
+          <path
+             d="m 128.77484,114.57352 h 0.45085 v -3.00355 h -0.45085 z m 0,-3.7211 h 0.45085 v -0.55245 h -0.45085 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3763" />
+          <path
+             d="m 130.38437,114.57352 h 0.45085 v -2.62255 h 1.4986 v -0.381 h -1.4986 v -0.254 c 0,-0.2921 0.0699,-0.45085 0.23495,-0.55245 0.17145,-0.0952 0.3556,-0.12065 0.95885,-0.12065 h 0.3048 v -0.381 h -0.40005 c -0.5969,0 -0.89535,0.0381 -1.11125,0.1397 -0.29845,0.1397 -0.43815,0.43815 -0.43815,0.93345 v 0.23495 h -0.65405 v 0.381 h 0.65405 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3765" />
+          <path
+             d="m 136.60112,113.15747 c 0.006,-0.6477 -0.0572,-0.94615 -0.23495,-1.18745 -0.2413,-0.33655 -0.65405,-0.4445 -1.6637,-0.4445 -0.8636,0 -1.28905,0.0825 -1.5367,0.29845 -0.26035,0.2286 -0.3683,0.5969 -0.3683,1.25095 0,0.6477 0.10795,1.016 0.3683,1.2446 0.24765,0.2159 0.6731,0.29845 1.54305,0.29845 0.9525,0 1.37795,-0.0889 1.63195,-0.3429 0.15875,-0.1524 0.23495,-0.3302 0.254,-0.60325 h -0.46355 c -0.0635,0.4572 -0.3302,0.56515 -1.397,0.56515 -0.84455,0 -1.07315,-0.0444 -1.27,-0.254 -0.1524,-0.1651 -0.1905,-0.31115 -0.1905,-0.8255 z m -3.3274,-0.3683 c 0.006,-0.254 0.0254,-0.3683 0.0889,-0.48895 0.1651,-0.3175 0.4191,-0.3937 1.33985,-0.3937 0.9144,0 1.16205,0.0762 1.3335,0.3937 0.0635,0.127 0.0825,0.24765 0.0889,0.48895 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Eurostile Extd';-inkscape-font-specification:'Eurostile Extd, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             id="path3767" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>
