@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+@font-face {
+    font-family: 'Eurostile';
+    src: url('../fonts/eurostilebold.eot'), url('../fonts/eurostilebold.ttf') format('truetype'), url('../fonts/eurostilebold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family:'Eurostile';
+	font-size: 72pt;
+}
+
+#mainlogo {
+	width: 65%;
+	height : 65%;
+}
