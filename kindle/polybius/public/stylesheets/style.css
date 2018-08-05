@@ -14,12 +14,47 @@ a {
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'EurostileExt';
+    src: url('../fonts/eurostileext-reg.eot'), url('../fonts/eurostileext-reg.ttf') format('truetype'), url('../fonts/eurostileext-reg.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1 {
     font-family:'Eurostile';
 	font-size: 72pt;
 }
 
+h2 {
+    font-family:'Eurostile';
+	font-size: 48pt;
+}
+
+h3 {
+    font-family:'EurostileExt';
+	font-size: 24pt;
+}
+
+h4 {
+    font-family:'Eurostile';
+	font-size: 18pt;
+}
+
+
 #mainlogo {
 	width: 65%;
 	height : 65%;
+}
+
+#containerlogo {
+	margin-bottom: 50px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+#manifest p {
+	font-family:'EurostileExt';
+	font-size: 36pt;
 }

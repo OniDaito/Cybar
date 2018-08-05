@@ -32,7 +32,7 @@
      inkscape:cx="521.42203"
      inkscape:cy="354.07502"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2430"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1177"
@@ -1078,5 +1078,16 @@
        d="m 52.003015,48.481224 11.81816,6.69539 11.81816,-6.69539 v 13.67568 l -11.81816,6.83785 V 82.527985 L 52.003015,75.690143 V 62.014454"
        id="path3038-2"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Eurostile Cond';-inkscape-font-specification:'Eurostile Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="73.327377"
+       y="272.43152"
+       id="text1050"><tspan
+         sodipodi:role="line"
+         id="tspan1048"
+         x="73.327377"
+         y="272.43152"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'Eurostile Extd, Normal';font-family:'Eurostile Extd';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.76111111px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">improving life</tspan></text>
   </g>
 </svg>

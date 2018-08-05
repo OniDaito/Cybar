@@ -5,7 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+var containersRouter = require('./routes/containers');
 
 var app = express();
 
@@ -20,7 +20,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use('/container', containersRouter);
 
 // Includes for bootstrap and similar
 app.use(express.static(__dirname + '/node_modules/bootstrap/dist'));
@@ -43,3 +43,5 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+app.listen(3002, "127.0.0.1");
+console.log('Server running at http://127.0.0.1:3002/');

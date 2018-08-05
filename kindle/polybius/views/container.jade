@@ -1,0 +1,8 @@
+extends layout
+
+block content
+	img#containerlogo(src="/images/pb_wide_white.png")
+	h4= "Storage Container: " + container
+	h3= "Current Manifest"
+	div#manifest 
+		p=manifest
